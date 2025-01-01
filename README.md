@@ -21,7 +21,7 @@ Most of them find on internet (Printables.com, GitHub...), some my remixes of th
 
 **4. Internal exhaust duct _(rework)_**
  - originals [Printables.com](https://www.printables.com/model/904764-qidi-q1-pro-internal-exhaust-duct), [Makerworld.com](https://makerworld.com/en/models/411229?fbclid=IwZXh0bgNhZW0CMTEAAR3f0M9DgXlkferK0tAFzDghmkW5zvwlpZ_0zBMjcjAj5kIBMrbzlP3vYic_aem_Yo-cguwd-8sszccZO92pzQ#profileId-313181)
- - my rework (not published yet)
+ - [my rework](https://github.com/dakot74/Qidi-Q1-Pro/tree/Qidi-Q1-Pro/Internal%20exhaust%20duct) (not published yet)
 
 **5. Klipper tweaks (heated chamber)**
  - starting to print ASA, I have problems with temperature in heated chamber; all my prints fails due to an error ("Heater chamber not heating at expected rate"). Heater worked properly, side panels was realy hot (not measured), but temperature measured by chmaber temperature sensor can't reach required temperature. With long preheat time (and very hot side panels) I can be able to reach required temperature and start print, but after some time print failed to an mentioned error; after print start temp on temp chamber sensor goes down, chamber heater work on 100%, but not able to catch up required temp.
