@@ -14,7 +14,7 @@ Most of them find on internet (Printables.com, GitHub...), some my remixes of th
 **2. Better cooling for Motherboard with 80mm fan _(rework)_**
   - original https://www.printables.com/model/861709-qidi-q1-pro-motherboard-fan-plate
   - my rework https://www.printables.com/model/1017902-qidi-q1-pro-mothreboard-fan-80mm-holder
-  - 
+    
 **3. External carbon filtration box**
  - original https://www.printables.com/model/895646-qidi-q1-pro-filter-scrubber-hepa-and-carbon-extern
  - my remix (not published yet)
